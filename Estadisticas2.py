@@ -21,3 +21,16 @@ class Estadisticas2:
         total = len(self.df)
         graves = self.df[self.df["Tipo_infracción"] == "Grave"].shape[0]
         return (graves / total) * 100
+    
+    def cuartiles_exceso(self):
+        return {
+            "Q1": self.df["Exceso_velocidad"].quantile(0.25),
+            "Q2": self.df["Exceso_velocidad"].quantile(0.50),
+            "Q3": self.df["Exceso_velocidad"].quantile(0.75)
+        }
+
+    def percentil_90_exceso(self):
+        return self.df["Exceso_velocidad"].quantile(0.90)
+
+    def percentil_exceso(self, p):
+        return self.df["Exceso_velocidad"].quantile(p / 100)
