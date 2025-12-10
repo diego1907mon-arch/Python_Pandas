@@ -1,0 +1,78 @@
+[33mcommit 0730b4b5131effb563513e92452eff0a87c24cf0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop_mauro[m[33m)[m
+Merge: db460ea 2028df7
+Author: Mauricio OLivos <mauriciolivos17@gmail.com>
+Date:   Wed Dec 10 09:57:25 2025 -0500
+
+    Merge branch 'develop_camilo' into develop_mauro
+
+[33mcommit db460eafda8dca7ca43639b0a9edd20accce5e17[m
+Merge: 1589317 a341985
+Author: Mauricio OLivos <mauriciolivos17@gmail.com>
+Date:   Wed Dec 10 09:56:31 2025 -0500
+
+    Merge branch 'develop_diego' into develop_mauro
+
+[33mcommit 2028df70336d2ccb3e5021a9e73a610fe129de59[m[33m ([m[1;31morigin/develop_camilo[m[33m, [m[1;32mdevelop_camilo[m[33m)[m
+Author: camilo <camiloarenas2105@gmail.com>
+Date:   Fri Dec 5 15:55:47 2025 -0500
+
+    feat: agregar clase Graficos con funciones de visualización
+
+[33mcommit a341985c8ddcef9dfc1cdeea1d1479e5e06c44da[m[33m ([m[1;31morigin/develop_diego[m[33m, [m[1;32mdevelop_diego[m[33m)[m
+Author: Diego Zarta <diego1907mon@gmail.com>
+Date:   Fri Dec 5 15:52:04 2025 -0500
+
+    feat(estadisticas): agregar clase Estadisticas1 con métodos de análisis del dataset
+    
+    Se implementan los métodos para calcular:
+    - Velocidad promedio
+    - Exceso de velocidad promedio
+    - Infracciones agrupadas por clima
+    - Top de marcas con más infracciones
+    - Infracciones por tipo de vía
+    - Conteo de cámaras fuera de servicio
+
+[33mcommit 019bd79b43d90e23cb7abab7bcffb64eae847513[m
+Author: Diego Zarta <diego1907mon@gmail.com>
+Date:   Fri Dec 5 15:38:05 2025 -0500
+
+    feat: agregar clase ProcesoDatos con creación de columnas derivadas
+    
+    - Se calcula Exceso_velocidad
+    - Se clasifica Tipo_infracción (Leve, Moderada, Grave)
+    - Se extrae la hora como valor numérico (Hora_num)
+    - Se retorna el DataFrame procesado listo para análisis
+
+[33mcommit 15893175729297b27dc82d3c6c4727ffe231e3d2[m[33m ([m[1;31morigin/develop_DAVID[m[33m, [m[1;32mdevelop_DAVID[m[33m)[m
+Author: JUAN DAVID ARENAS GARCIA <david1072191295@gmail.com>
+Date:   Fri Dec 5 15:48:51 2025 -0500
+
+    feat,Agregar métodos de análisis de percentiles y cuartiles a Estadisticas2
+
+[33mcommit 5eeaf06f6e57847778dd717d7c2798e645fc3469[m
+Author: JUAN DAVID ARENAS GARCIA <david1072191295@gmail.com>
+Date:   Fri Dec 5 15:47:19 2025 -0500
+
+    feat,Agregar clase Estadisticas2 con métodos para análisis de infracciones y exceso de velocidad
+
+[33mcommit 0156380b17515b94575e4e759c0391a9f20f7c05[m
+Author: JUAN DAVID ARENAS GARCIA <david1072191295@gmail.com>
+Date:   Fri Dec 5 15:44:35 2025 -0500
+
+    Agregar clase Estadisticas2 con métodos para análisis de infracciones
+
+[33mcommit d0457a5121fcbbd8b861ada42c5689f323d9f648[m
+Author: Diego Zarta <diego1907mon@gmail.com>
+Date:   Fri Dec 5 15:33:37 2025 -0500
+
+    feat: agregar clase Cargar para lectura de archivos CSV
+    
+    - Se crea la clase Cargar con atributo path
+    - Se implementa el método load() para cargar el dataset usando pandas
+    - Retorna el DataFrame listo para procesar
+
+[33mcommit c486a7692798bde95d6e250a4201a7a420ef0bd8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop_mauro[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Diego_Guts <diego1907mon@gmail.com>
+Date:   Fri Dec 5 12:39:25 2025 -0500
+
+    Initial commit
