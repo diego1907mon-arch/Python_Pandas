@@ -1,0 +1,1001 @@
+ID_foto,ID_cámara,Velocidad_detectada,Límite_velocidad,Hora,Clima,Tipo_vía,Marca_vehículo,Placa,Cámara_funcionaba
+1,27,40,100,09:57,Nublado,Avenida,Renault,ZTA322,No
+2,41,109,80,09:02,Niebla,Zona escolar,Mazda,RAH050,Sí
+3,8,139,40,11:49,Soleado,Autopista,Hyundai,XDT615,No
+4,12,101,30,17:31,Niebla,Calle residencial,Toyota,BBI374,Sí
+5,48,98,30,23:41,Nublado,Autopista,Kia,XTM835,Sí
+6,38,115,30,22:48,Soleado,Avenida,Mazda,YVQ598,No
+7,38,138,30,06:02,Lluvia,Calle residencial,Nissan,YPB268,Sí
+8,1,104,100,06:33,Soleado,Autopista,Toyota,KBY379,Sí
+9,43,127,80,10:15,Nublado,Zona escolar,Chevrolet,NFV355,No
+10,11,59,30,13:27,Nublado,Calle residencial,BMW,TPK590,Sí
+11,12,97,80,14:28,Niebla,Zona escolar,Hyundai,KEP883,Sí
+12,2,115,30,19:33,Soleado,Zona escolar,Toyota,NRZ887,No
+13,2,76,50,20:33,Soleado,Zona escolar,Audi,RMF577,No
+14,29,149,50,22:29,Soleado,Zona escolar,Mazda,KXC361,No
+15,22,65,40,11:59,Soleado,Zona escolar,Chevrolet,QGI189,Sí
+16,28,77,60,06:06,Nublado,Avenida,Nissan,FJP568,Sí
+17,32,135,40,14:43,Nublado,Autopista,Toyota,HPW269,No
+18,42,124,60,20:56,Niebla,Autopista,Renault,PTM839,No
+19,3,126,30,21:01,Soleado,Autopista,Renault,DKW946,Sí
+20,18,96,100,21:25,Nublado,Zona escolar,Audi,CPP139,Sí
+21,13,102,100,14:52,Soleado,Avenida,Chevrolet,WKQ541,Sí
+22,31,92,60,13:28,Nublado,Avenida,Hyundai,UNV111,No
+23,17,106,60,22:12,Lluvia,Autopista,Audi,AVT788,No
+24,2,93,50,18:05,Lluvia,Zona escolar,Kia,AKC820,No
+25,7,104,40,10:17,Lluvia,Zona escolar,Nissan,FMK082,No
+26,35,42,60,18:30,Nublado,Zona escolar,Audi,OVP948,Sí
+27,29,143,40,19:57,Nublado,Calle residencial,Kia,IRS698,Sí
+28,40,79,50,22:48,Lluvia,Zona escolar,Chevrolet,CVX032,Sí
+29,33,93,80,11:16,Lluvia,Calle residencial,Renault,MOJ554,No
+30,39,64,100,19:35,Soleado,Autopista,Ford,SAP497,No
+31,5,81,30,23:45,Nublado,Zona escolar,BMW,FWN036,No
+32,3,34,40,17:16,Nublado,Calle residencial,Chevrolet,LHP495,No
+33,39,38,30,06:01,Nublado,Calle residencial,BMW,DSS579,Sí
+34,26,105,30,15:07,Soleado,Calle residencial,BMW,RTS059,Sí
+35,19,104,40,23:24,Nublado,Autopista,Mazda,NHE259,No
+36,36,96,50,16:11,Lluvia,Calle residencial,Hyundai,EIC534,Sí
+37,17,139,100,11:17,Soleado,Avenida,Ford,FHR120,Sí
+38,41,116,40,05:48,Niebla,Avenida,Audi,MAN306,Sí
+39,10,91,80,10:40,Lluvia,Zona escolar,Kia,RMR656,Sí
+40,32,37,40,20:35,Soleado,Calle residencial,Chevrolet,EWO578,No
+41,49,143,80,05:47,Nublado,Avenida,BMW,CMV092,No
+42,12,57,30,06:49,Niebla,Zona escolar,Hyundai,ATY270,Sí
+43,29,34,60,10:05,Lluvia,Autopista,Hyundai,XUP362,No
+44,28,98,40,13:04,Niebla,Avenida,Audi,IAG425,Sí
+45,16,105,50,19:06,Nublado,Autopista,Audi,AUB357,Sí
+46,49,54,50,15:06,Nublado,Zona escolar,Ford,UOH503,Sí
+47,43,139,40,23:10,Nublado,Zona escolar,Chevrolet,NVQ976,No
+48,20,74,30,15:19,Niebla,Zona escolar,Kia,AEE041,Sí
+49,38,116,80,22:55,Niebla,Autopista,Ford,HZO075,Sí
+50,33,135,60,09:52,Soleado,Avenida,Ford,NSZ307,Sí
+51,20,72,80,23:11,Lluvia,Zona escolar,Chevrolet,QLP606,Sí
+52,12,137,40,05:38,Nublado,Calle residencial,Mazda,TCX505,No
+53,16,31,60,20:40,Nublado,Autopista,Ford,BZG312,Sí
+54,18,93,40,06:02,Soleado,Zona escolar,Hyundai,SFU911,No
+55,47,107,100,18:55,Soleado,Zona escolar,Ford,PDP256,No
+56,2,124,100,10:02,Soleado,Avenida,Renault,BGL889,Sí
+57,15,74,80,21:30,Lluvia,Zona escolar,Chevrolet,BEQ311,No
+58,43,34,30,17:22,Niebla,Autopista,Hyundai,HBR726,Sí
+59,40,107,80,19:10,Soleado,Calle residencial,BMW,XTC600,Sí
+60,21,92,30,14:37,Nublado,Zona escolar,Toyota,GMJ651,Sí
+61,45,112,60,17:41,Nublado,Calle residencial,Ford,HYH347,Sí
+62,1,122,60,05:53,Niebla,Zona escolar,Audi,JYM155,No
+63,33,112,40,14:10,Soleado,Zona escolar,Mazda,TZC428,No
+64,9,80,30,22:27,Lluvia,Zona escolar,Mazda,KUF499,No
+65,11,108,50,05:21,Niebla,Avenida,Kia,LQS958,Sí
+66,20,111,30,23:48,Lluvia,Avenida,Kia,HWG952,No
+67,20,149,40,08:19,Nublado,Autopista,Nissan,DEE348,No
+68,31,83,30,08:03,Soleado,Zona escolar,Chevrolet,TGK805,Sí
+69,38,147,60,16:34,Lluvia,Calle residencial,Mazda,ENC869,Sí
+70,13,33,100,20:51,Niebla,Avenida,Kia,HRQ520,No
+71,24,65,100,20:40,Soleado,Avenida,Renault,TPF765,No
+72,45,62,50,16:54,Soleado,Calle residencial,Chevrolet,IID170,Sí
+73,1,100,60,20:07,Soleado,Avenida,Mazda,FAJ214,Sí
+74,2,54,40,18:19,Soleado,Zona escolar,Toyota,USW552,No
+75,30,72,100,21:21,Niebla,Autopista,Hyundai,XSN767,No
+76,32,95,60,09:04,Soleado,Avenida,Kia,SBG481,No
+77,29,106,50,21:01,Niebla,Autopista,Chevrolet,GDV896,Sí
+78,14,41,80,05:33,Lluvia,Autopista,Kia,BLV332,Sí
+79,4,144,100,21:54,Nublado,Zona escolar,Renault,LZK967,Sí
+80,40,35,60,06:14,Niebla,Calle residencial,Renault,IUL557,No
+81,5,114,40,19:20,Nublado,Autopista,Audi,WTK339,Sí
+82,33,57,100,10:25,Nublado,Zona escolar,Nissan,CES996,Sí
+83,24,145,60,05:12,Soleado,Avenida,Mazda,CIH364,Sí
+84,19,62,60,08:19,Lluvia,Avenida,Chevrolet,LUH276,Sí
+85,33,101,30,13:41,Niebla,Avenida,Chevrolet,TYF859,No
+86,41,43,30,14:57,Niebla,Calle residencial,Renault,NVW488,Sí
+87,40,132,50,13:00,Lluvia,Autopista,Toyota,DHU822,No
+88,48,70,50,17:09,Soleado,Calle residencial,Kia,GLF309,No
+89,21,112,80,17:35,Niebla,Calle residencial,Kia,BNV419,Sí
+90,47,66,40,10:12,Niebla,Autopista,Kia,NHN571,No
+91,43,146,30,22:37,Lluvia,Autopista,Renault,BAP716,No
+92,8,128,60,23:07,Nublado,Avenida,Renault,FMZ136,Sí
+93,34,138,100,22:15,Nublado,Zona escolar,Kia,KNW901,Sí
+94,47,98,40,09:47,Soleado,Zona escolar,Audi,XTV501,No
+95,39,99,30,23:28,Lluvia,Avenida,Renault,JHC422,No
+96,46,115,60,09:29,Lluvia,Avenida,BMW,RIB274,Sí
+97,20,64,80,05:13,Nublado,Zona escolar,Renault,EBS859,Sí
+98,39,121,60,09:53,Niebla,Avenida,Renault,ZSN614,Sí
+99,6,94,60,08:03,Lluvia,Calle residencial,Ford,KRL471,Sí
+100,36,33,60,10:01,Nublado,Zona escolar,Chevrolet,QCY448,Sí
+101,39,31,100,13:55,Nublado,Zona escolar,Renault,UUZ525,Sí
+102,16,36,30,18:47,Niebla,Avenida,Ford,HEM648,Sí
+103,35,77,40,13:13,Nublado,Zona escolar,Chevrolet,BJU987,Sí
+104,6,137,80,23:12,Niebla,Avenida,Mazda,XLG795,No
+105,12,75,40,05:03,Lluvia,Autopista,Nissan,MBM357,No
+106,21,80,30,09:47,Nublado,Autopista,Audi,ACP056,Sí
+107,24,90,50,06:57,Soleado,Zona escolar,Toyota,WOF147,No
+108,3,133,80,12:46,Nublado,Avenida,BMW,LXS099,No
+109,41,88,50,16:57,Nublado,Autopista,BMW,IDL766,No
+110,39,51,30,18:17,Nublado,Zona escolar,Nissan,XFR935,Sí
+111,12,50,100,17:37,Lluvia,Avenida,BMW,DHZ188,Sí
+112,49,121,50,19:54,Soleado,Calle residencial,Mazda,SIZ500,No
+113,24,111,30,14:22,Niebla,Zona escolar,Mazda,JRK812,No
+114,3,92,50,23:14,Niebla,Autopista,Kia,KWU975,Sí
+115,37,36,100,22:29,Nublado,Zona escolar,Toyota,SQL831,Sí
+116,47,58,40,06:17,Niebla,Zona escolar,Renault,ADU779,No
+117,6,79,40,16:59,Nublado,Avenida,Chevrolet,CPV968,Sí
+118,28,78,30,11:04,Lluvia,Calle residencial,Kia,JOS517,No
+119,30,83,80,12:50,Niebla,Avenida,Mazda,GJI762,No
+120,20,103,40,05:44,Lluvia,Autopista,BMW,SAX028,Sí
+121,34,57,50,12:04,Niebla,Avenida,Ford,BFC026,Sí
+122,16,31,30,10:11,Soleado,Calle residencial,Toyota,IPH164,No
+123,49,60,40,18:46,Nublado,Calle residencial,Audi,VTR836,Sí
+124,12,84,60,11:11,Soleado,Zona escolar,Ford,WTZ686,No
+125,30,41,50,18:18,Lluvia,Autopista,Ford,TLY901,No
+126,17,35,60,22:29,Nublado,Zona escolar,Chevrolet,TPI468,No
+127,48,117,80,06:03,Nublado,Calle residencial,Nissan,ZTM025,Sí
+128,13,81,50,07:23,Soleado,Zona escolar,Toyota,COF633,Sí
+129,24,84,80,05:02,Nublado,Calle residencial,BMW,LNB058,Sí
+130,7,50,30,16:01,Nublado,Autopista,Ford,NVI318,No
+131,40,120,80,20:38,Soleado,Zona escolar,BMW,YHU846,No
+132,1,76,60,06:49,Niebla,Autopista,Ford,QAU856,Sí
+133,9,47,40,11:08,Soleado,Zona escolar,Audi,KZC950,No
+134,8,78,100,12:07,Nublado,Avenida,BMW,BND478,No
+135,8,31,80,08:42,Niebla,Calle residencial,Chevrolet,KYN399,Sí
+136,32,94,50,17:10,Soleado,Avenida,Ford,VPS944,No
+137,12,109,80,23:27,Soleado,Calle residencial,Audi,KUO137,No
+138,1,44,50,15:53,Lluvia,Calle residencial,Renault,MTE430,No
+139,42,137,30,05:20,Nublado,Avenida,Renault,ZIO417,Sí
+140,1,91,30,21:36,Nublado,Autopista,Hyundai,VAX926,Sí
+141,40,52,40,21:49,Soleado,Calle residencial,Ford,JVO127,Sí
+142,43,98,40,11:18,Soleado,Zona escolar,Nissan,VBU461,No
+143,12,98,40,20:09,Niebla,Avenida,BMW,TOD435,Sí
+144,7,34,40,13:04,Niebla,Zona escolar,Nissan,GOL081,No
+145,9,96,100,19:21,Nublado,Calle residencial,Chevrolet,WVY476,Sí
+146,37,120,30,05:28,Lluvia,Autopista,Renault,NNO638,No
+147,30,120,60,11:54,Soleado,Avenida,Kia,LKN032,No
+148,37,92,100,06:22,Soleado,Autopista,Hyundai,PAN005,No
+149,41,48,50,13:12,Soleado,Calle residencial,Chevrolet,PPU522,Sí
+150,46,141,50,23:01,Nublado,Autopista,Hyundai,CSX595,No
+151,3,32,40,15:12,Lluvia,Zona escolar,Audi,VYL941,Sí
+152,31,107,30,08:54,Soleado,Avenida,Renault,PSJ065,Sí
+153,9,145,100,08:49,Nublado,Zona escolar,Toyota,RIU493,No
+154,7,138,30,11:13,Nublado,Zona escolar,Nissan,ILJ472,Sí
+155,15,141,80,05:14,Niebla,Autopista,Chevrolet,FOM548,Sí
+156,20,116,40,09:12,Soleado,Autopista,Audi,AGU039,Sí
+157,14,141,30,17:39,Lluvia,Calle residencial,Toyota,RYR639,Sí
+158,10,118,60,15:26,Lluvia,Calle residencial,Renault,CTK208,No
+159,42,74,100,22:28,Niebla,Avenida,Chevrolet,KLO023,Sí
+160,24,135,50,10:40,Niebla,Zona escolar,Toyota,HQH640,Sí
+161,4,134,50,13:53,Nublado,Avenida,Nissan,WEP085,Sí
+162,40,69,60,11:29,Soleado,Calle residencial,Ford,JRQ659,No
+163,4,109,50,12:37,Soleado,Avenida,Hyundai,RNV895,No
+164,43,143,40,09:51,Niebla,Autopista,BMW,VGO829,Sí
+165,2,125,30,22:01,Nublado,Zona escolar,Nissan,MDP759,Sí
+166,26,110,60,12:59,Niebla,Calle residencial,Renault,UML674,Sí
+167,24,33,30,17:43,Lluvia,Avenida,Hyundai,YVO787,No
+168,37,117,60,05:33,Lluvia,Autopista,Kia,OXW843,No
+169,45,138,30,09:31,Nublado,Zona escolar,BMW,DJD392,Sí
+170,26,59,30,18:16,Niebla,Avenida,Renault,STT190,No
+171,4,80,80,10:02,Lluvia,Avenida,Renault,BSQ548,Sí
+172,31,86,80,17:19,Nublado,Calle residencial,Hyundai,AET583,No
+173,13,31,60,10:11,Soleado,Avenida,Mazda,ELF953,No
+174,47,105,30,08:04,Soleado,Avenida,Renault,NMK765,No
+175,24,136,60,13:33,Soleado,Calle residencial,Nissan,QEY667,No
+176,26,44,30,15:26,Nublado,Autopista,Nissan,GZM283,No
+177,18,37,80,15:31,Nublado,Calle residencial,Mazda,WXI491,No
+178,5,48,50,15:01,Lluvia,Calle residencial,Nissan,PTR453,Sí
+179,1,130,40,06:19,Nublado,Avenida,Kia,DWJ475,No
+180,21,126,100,17:14,Soleado,Calle residencial,Mazda,SBJ078,No
+181,3,115,40,05:39,Nublado,Autopista,Ford,YAB050,No
+182,17,148,80,05:40,Nublado,Avenida,BMW,INK509,Sí
+183,7,48,30,18:52,Nublado,Calle residencial,Nissan,NNG821,Sí
+184,41,77,80,15:54,Lluvia,Zona escolar,Nissan,HQR181,No
+185,22,98,80,13:52,Niebla,Calle residencial,Kia,ITX700,No
+186,39,128,100,07:07,Soleado,Avenida,BMW,AGS745,Sí
+187,46,63,40,18:19,Lluvia,Avenida,Hyundai,KPF168,No
+188,38,44,80,21:18,Soleado,Zona escolar,BMW,FBW902,No
+189,42,139,60,18:04,Niebla,Zona escolar,Audi,OMK661,No
+190,10,46,50,05:58,Lluvia,Autopista,Ford,VXG364,No
+191,43,122,50,14:26,Soleado,Autopista,Chevrolet,LVQ188,No
+192,44,142,50,19:53,Lluvia,Avenida,Nissan,JEZ685,Sí
+193,40,30,50,14:02,Nublado,Calle residencial,Audi,SXK158,Sí
+194,11,67,30,10:44,Niebla,Autopista,Toyota,JYK475,Sí
+195,30,104,100,12:05,Nublado,Autopista,BMW,UJE500,No
+196,19,81,80,06:03,Nublado,Avenida,Kia,NGH109,Sí
+197,37,119,60,05:14,Soleado,Autopista,Audi,TEA201,Sí
+198,3,39,100,21:37,Lluvia,Zona escolar,Chevrolet,ZGE534,Sí
+199,26,129,50,19:42,Lluvia,Zona escolar,Renault,PWW739,Sí
+200,23,55,50,06:09,Nublado,Avenida,BMW,SYX843,No
+201,3,123,80,09:53,Nublado,Avenida,Toyota,QZC435,No
+202,45,36,60,17:14,Soleado,Avenida,Renault,AKX968,No
+203,34,33,40,05:36,Lluvia,Autopista,Ford,KTB459,Sí
+204,25,76,100,22:23,Nublado,Zona escolar,Nissan,IUF257,Sí
+205,20,58,50,13:36,Lluvia,Calle residencial,Renault,JSN077,No
+206,31,102,60,19:45,Niebla,Avenida,Kia,SUV575,Sí
+207,17,48,60,07:54,Niebla,Autopista,Toyota,EBT053,No
+208,14,144,50,13:26,Niebla,Calle residencial,Hyundai,TLM624,Sí
+209,45,80,50,05:16,Nublado,Calle residencial,Ford,KLU188,No
+210,3,134,30,10:16,Nublado,Avenida,Renault,AYL395,No
+211,31,63,60,21:47,Niebla,Avenida,Audi,KKM934,Sí
+212,10,128,50,06:41,Soleado,Calle residencial,Ford,NKB449,No
+213,33,36,30,16:02,Lluvia,Avenida,Ford,FHC238,Sí
+214,7,69,40,09:51,Lluvia,Avenida,Nissan,OKQ214,No
+215,25,31,60,12:12,Lluvia,Calle residencial,Hyundai,DGE972,No
+216,21,43,60,08:54,Nublado,Zona escolar,BMW,IRU159,No
+217,5,104,100,09:41,Lluvia,Calle residencial,Toyota,CDG520,No
+218,35,142,50,21:00,Soleado,Avenida,Ford,XGZ506,Sí
+219,30,91,80,15:23,Lluvia,Zona escolar,Audi,GIQ029,No
+220,8,36,80,22:41,Niebla,Avenida,Mazda,VOF341,No
+221,12,135,30,14:04,Lluvia,Avenida,Nissan,NHL859,No
+222,9,87,40,10:53,Niebla,Zona escolar,Audi,EJE762,No
+223,17,121,40,06:36,Niebla,Avenida,Ford,EFG428,Sí
+224,7,35,100,20:37,Lluvia,Avenida,Renault,IKH803,Sí
+225,19,60,60,18:58,Soleado,Avenida,Chevrolet,YDU407,No
+226,48,147,80,22:09,Soleado,Avenida,Mazda,SYA563,Sí
+227,24,104,50,11:40,Niebla,Zona escolar,Audi,JSZ883,No
+228,8,55,100,20:28,Lluvia,Zona escolar,BMW,VFU849,No
+229,45,130,80,23:38,Soleado,Calle residencial,Chevrolet,IMD285,Sí
+230,11,143,30,14:19,Niebla,Zona escolar,Chevrolet,ZWC323,No
+231,29,99,60,19:59,Nublado,Avenida,Kia,PCV825,No
+232,49,141,40,12:00,Niebla,Zona escolar,Audi,MRM982,Sí
+233,25,101,50,20:04,Nublado,Calle residencial,Renault,HDZ111,No
+234,34,131,80,09:03,Niebla,Avenida,Mazda,VNU133,Sí
+235,42,71,100,17:55,Niebla,Zona escolar,Renault,UYI573,No
+236,30,64,40,08:40,Nublado,Autopista,Chevrolet,QKF570,Sí
+237,26,141,30,06:02,Soleado,Calle residencial,Ford,SCG930,Sí
+238,13,58,80,08:18,Soleado,Autopista,Renault,KHZ157,No
+239,46,110,60,23:17,Niebla,Calle residencial,Renault,POQ108,Sí
+240,10,44,100,20:33,Nublado,Autopista,Ford,RSV689,Sí
+241,7,106,30,15:55,Soleado,Autopista,Renault,MMQ244,No
+242,24,46,40,16:11,Nublado,Zona escolar,Nissan,TCU982,No
+243,48,97,100,09:44,Lluvia,Zona escolar,Hyundai,MRD276,No
+244,2,48,50,06:35,Lluvia,Zona escolar,Renault,UBF411,Sí
+245,7,65,60,15:56,Niebla,Avenida,Mazda,VWO125,Sí
+246,1,149,60,15:25,Nublado,Autopista,Chevrolet,TGK060,Sí
+247,28,90,50,09:25,Soleado,Calle residencial,Hyundai,VGD640,Sí
+248,48,76,30,22:48,Soleado,Zona escolar,Chevrolet,HCG640,No
+249,38,120,50,07:03,Soleado,Calle residencial,Ford,AZQ494,No
+250,36,67,40,17:50,Soleado,Autopista,Audi,JSC655,No
+251,49,53,30,08:45,Soleado,Avenida,Ford,IDY706,Sí
+252,33,129,100,09:13,Niebla,Autopista,Toyota,OHW148,No
+253,44,133,80,20:06,Soleado,Avenida,Mazda,NIV543,No
+254,9,68,40,16:04,Nublado,Zona escolar,Renault,YIN644,No
+255,35,118,60,21:51,Niebla,Calle residencial,Renault,ROO750,Sí
+256,16,105,30,20:59,Soleado,Zona escolar,Mazda,ALE658,Sí
+257,21,77,30,08:38,Nublado,Avenida,Mazda,CNY208,No
+258,7,87,100,14:44,Nublado,Autopista,Ford,TPU626,No
+259,38,123,100,19:09,Niebla,Calle residencial,BMW,UIK773,Sí
+260,31,73,50,19:37,Lluvia,Calle residencial,Audi,AQD595,Sí
+261,7,119,50,17:19,Nublado,Avenida,Kia,BPO884,Sí
+262,38,51,60,12:51,Niebla,Avenida,BMW,QMA685,No
+263,13,49,40,11:54,Nublado,Autopista,Kia,HFT469,No
+264,16,148,30,19:45,Lluvia,Avenida,Mazda,QKM683,No
+265,33,82,30,12:21,Lluvia,Avenida,Ford,VEP983,No
+266,46,45,50,13:43,Soleado,Zona escolar,Ford,XNT399,Sí
+267,24,96,60,19:43,Nublado,Calle residencial,Audi,FAJ302,Sí
+268,44,118,50,22:23,Lluvia,Avenida,Mazda,HUV473,No
+269,28,105,100,08:17,Niebla,Autopista,Kia,DQZ617,Sí
+270,4,99,100,13:26,Lluvia,Calle residencial,Kia,GKE701,Sí
+271,14,110,80,14:10,Soleado,Calle residencial,Chevrolet,IQH738,Sí
+272,35,113,40,07:44,Nublado,Autopista,BMW,WFU417,No
+273,24,87,40,08:34,Soleado,Autopista,Renault,EBX735,Sí
+274,9,49,100,14:30,Soleado,Zona escolar,Toyota,NVF002,No
+275,43,58,60,18:57,Soleado,Avenida,BMW,LRB468,Sí
+276,19,72,30,21:07,Soleado,Autopista,Nissan,TPD530,Sí
+277,42,88,40,18:00,Niebla,Calle residencial,Audi,KKH965,Sí
+278,43,63,60,09:23,Nublado,Avenida,BMW,NFT095,Sí
+279,32,149,50,21:25,Niebla,Zona escolar,Hyundai,EEA073,Sí
+280,6,130,60,16:16,Lluvia,Zona escolar,Kia,IMJ320,Sí
+281,35,100,60,22:50,Lluvia,Avenida,Toyota,QDU761,No
+282,25,66,80,05:13,Soleado,Autopista,Toyota,GDY221,No
+283,14,50,60,14:41,Lluvia,Autopista,Ford,ETM372,Sí
+284,43,81,50,09:24,Nublado,Calle residencial,Mazda,DSJ980,Sí
+285,5,68,40,06:17,Soleado,Calle residencial,Mazda,THX512,No
+286,10,100,100,20:37,Nublado,Autopista,Mazda,VIJ656,No
+287,15,93,40,23:44,Niebla,Calle residencial,Kia,ILA735,No
+288,17,92,30,23:12,Lluvia,Avenida,Renault,NBP948,No
+289,41,84,50,08:35,Nublado,Calle residencial,Mazda,CTW765,Sí
+290,35,64,50,10:37,Soleado,Zona escolar,Toyota,HKZ938,Sí
+291,32,140,80,12:18,Soleado,Calle residencial,Ford,BOB400,Sí
+292,32,89,100,09:05,Lluvia,Calle residencial,Hyundai,DHO933,Sí
+293,1,119,100,08:16,Lluvia,Avenida,Audi,MAE903,Sí
+294,42,130,50,13:00,Nublado,Zona escolar,Renault,JWG933,No
+295,43,57,50,15:34,Niebla,Autopista,Nissan,KEX933,Sí
+296,37,30,40,20:12,Niebla,Calle residencial,Audi,YML278,No
+297,10,133,100,20:47,Lluvia,Zona escolar,Renault,BMP855,Sí
+298,34,36,60,19:06,Nublado,Avenida,Renault,BYK920,No
+299,42,60,40,14:05,Lluvia,Calle residencial,BMW,ISS368,Sí
+300,24,135,50,13:01,Nublado,Calle residencial,Chevrolet,JVU532,No
+301,37,46,40,06:49,Soleado,Avenida,Mazda,IUZ144,No
+302,10,113,100,07:11,Niebla,Autopista,Mazda,PVI190,Sí
+303,45,99,30,05:53,Nublado,Calle residencial,Toyota,WLR509,No
+304,31,83,40,05:19,Nublado,Calle residencial,Toyota,HDQ157,No
+305,7,98,60,07:48,Soleado,Avenida,Renault,NER415,No
+306,22,95,60,20:01,Niebla,Autopista,Ford,MVQ631,Sí
+307,45,30,100,11:58,Nublado,Zona escolar,Toyota,QRX724,Sí
+308,38,51,30,18:04,Nublado,Avenida,Ford,MCY127,Sí
+309,46,39,80,15:41,Nublado,Zona escolar,Kia,TIR213,No
+310,35,75,50,11:12,Soleado,Autopista,Kia,RCZ757,Sí
+311,9,119,60,08:58,Soleado,Zona escolar,BMW,DCH005,No
+312,41,112,60,15:56,Nublado,Autopista,Ford,EDD851,Sí
+313,33,105,40,11:12,Niebla,Calle residencial,BMW,ZRX278,No
+314,32,54,50,19:08,Nublado,Zona escolar,Chevrolet,UJQ919,Sí
+315,25,105,40,14:43,Niebla,Zona escolar,Renault,PNX034,No
+316,25,62,80,19:50,Nublado,Calle residencial,Mazda,XRY813,No
+317,40,91,30,10:52,Niebla,Autopista,Mazda,MUU101,Sí
+318,7,131,50,18:17,Nublado,Zona escolar,Hyundai,KTT036,No
+319,10,143,80,18:33,Nublado,Zona escolar,BMW,HTG880,Sí
+320,6,141,60,18:28,Lluvia,Zona escolar,Hyundai,EJM864,No
+321,33,53,50,09:41,Soleado,Zona escolar,Audi,VLK735,Sí
+322,29,61,30,21:29,Nublado,Calle residencial,Mazda,NJT187,Sí
+323,4,148,40,08:24,Nublado,Zona escolar,Kia,KFE983,No
+324,32,80,80,19:30,Lluvia,Autopista,Kia,YLM583,Sí
+325,9,139,50,14:35,Soleado,Avenida,Mazda,IYW034,No
+326,26,114,100,07:58,Soleado,Zona escolar,BMW,NAM884,Sí
+327,5,132,40,11:44,Soleado,Autopista,Ford,VLN081,Sí
+328,31,38,100,16:01,Soleado,Avenida,Kia,ZYW982,No
+329,12,121,80,09:35,Lluvia,Calle residencial,BMW,KRL467,Sí
+330,38,92,30,09:00,Niebla,Zona escolar,Toyota,RGQ889,Sí
+331,23,109,80,05:28,Nublado,Avenida,Renault,AZN354,Sí
+332,8,43,80,08:37,Lluvia,Zona escolar,Mazda,ETG865,Sí
+333,29,148,80,17:50,Nublado,Zona escolar,Mazda,GKZ491,No
+334,22,118,80,12:08,Nublado,Avenida,Audi,EAA611,Sí
+335,14,57,100,18:56,Lluvia,Autopista,Ford,URS494,No
+336,32,39,40,10:01,Lluvia,Zona escolar,Chevrolet,VIF512,Sí
+337,10,30,60,05:44,Niebla,Calle residencial,Renault,PXI063,No
+338,38,79,30,19:54,Niebla,Avenida,Audi,DOP507,No
+339,26,69,50,05:25,Lluvia,Calle residencial,Audi,WRG666,No
+340,49,130,30,09:07,Niebla,Avenida,Kia,ZBH284,No
+341,25,102,50,10:50,Niebla,Calle residencial,Mazda,LFO140,Sí
+342,34,54,80,12:10,Soleado,Calle residencial,Ford,RBN937,Sí
+343,26,70,100,14:42,Lluvia,Avenida,Nissan,HQU396,Sí
+344,9,131,50,23:25,Soleado,Zona escolar,Kia,AZG965,No
+345,8,49,80,08:40,Soleado,Autopista,Mazda,KAS261,No
+346,7,88,30,05:05,Nublado,Autopista,Mazda,OEC079,No
+347,10,57,30,14:42,Soleado,Avenida,Chevrolet,MRW759,No
+348,34,55,50,20:51,Niebla,Avenida,Renault,ZKL707,Sí
+349,26,87,30,21:49,Nublado,Calle residencial,Hyundai,HUZ638,No
+350,8,103,50,20:19,Lluvia,Autopista,Ford,CFH654,Sí
+351,28,149,60,07:13,Niebla,Calle residencial,Renault,ATQ068,Sí
+352,15,144,100,17:14,Soleado,Calle residencial,Chevrolet,VAV675,No
+353,42,95,30,06:24,Nublado,Zona escolar,Renault,VTI308,No
+354,43,53,30,22:35,Soleado,Calle residencial,Mazda,SEP587,No
+355,5,136,50,22:38,Nublado,Zona escolar,Kia,QWK946,No
+356,4,97,80,07:26,Niebla,Zona escolar,Chevrolet,ERX256,No
+357,24,134,80,15:18,Nublado,Zona escolar,BMW,NIO103,Sí
+358,48,146,60,15:35,Soleado,Autopista,Hyundai,RYE790,Sí
+359,33,96,100,18:45,Nublado,Autopista,Toyota,DXB778,Sí
+360,42,96,50,19:07,Niebla,Zona escolar,Nissan,JWT353,Sí
+361,38,50,60,19:00,Nublado,Autopista,Toyota,ZDL399,No
+362,23,133,30,19:42,Lluvia,Calle residencial,Renault,TSM837,Sí
+363,30,67,100,10:58,Soleado,Autopista,Renault,MHX804,Sí
+364,11,81,60,11:56,Soleado,Zona escolar,Kia,CDU464,No
+365,1,48,80,21:39,Lluvia,Calle residencial,Kia,DAU638,Sí
+366,20,93,50,10:08,Lluvia,Calle residencial,Renault,JGB016,No
+367,26,81,40,18:02,Soleado,Autopista,Audi,RSE623,No
+368,9,69,80,09:10,Niebla,Calle residencial,Kia,PSL462,No
+369,6,129,50,17:09,Lluvia,Avenida,Chevrolet,WLO578,Sí
+370,30,40,30,13:11,Lluvia,Zona escolar,Kia,NEH235,No
+371,31,149,50,19:52,Soleado,Zona escolar,Nissan,LCH082,Sí
+372,37,129,80,13:15,Lluvia,Avenida,Chevrolet,GYL471,No
+373,35,126,40,23:36,Lluvia,Zona escolar,Chevrolet,LZR134,Sí
+374,13,39,30,07:56,Soleado,Zona escolar,Kia,VJV629,No
+375,22,32,60,15:25,Niebla,Calle residencial,Renault,WKX061,Sí
+376,45,66,40,19:27,Nublado,Avenida,Kia,XMZ329,No
+377,48,111,100,11:54,Soleado,Zona escolar,Renault,RRQ246,Sí
+378,26,141,50,13:32,Niebla,Autopista,Hyundai,BOE982,No
+379,19,50,30,05:55,Niebla,Zona escolar,Ford,OQI854,Sí
+380,45,146,80,09:23,Nublado,Avenida,Audi,HAU686,Sí
+381,34,132,40,22:38,Lluvia,Autopista,Nissan,EME384,Sí
+382,46,138,40,15:57,Nublado,Calle residencial,Audi,CTD814,No
+383,45,79,60,22:09,Lluvia,Zona escolar,Toyota,EGW271,No
+384,12,99,50,15:56,Niebla,Zona escolar,Hyundai,QDI840,No
+385,25,55,30,09:44,Soleado,Avenida,Mazda,SWL623,Sí
+386,14,121,50,12:25,Lluvia,Calle residencial,Ford,KAC002,Sí
+387,36,100,30,09:48,Niebla,Avenida,Mazda,ZIR485,Sí
+388,31,48,50,05:57,Nublado,Autopista,Mazda,VVH238,No
+389,19,74,100,11:51,Nublado,Avenida,BMW,WDL091,Sí
+390,17,95,40,06:39,Nublado,Zona escolar,Nissan,QLK990,No
+391,1,105,80,15:42,Lluvia,Avenida,Toyota,JCD600,Sí
+392,36,107,50,14:13,Soleado,Avenida,Nissan,KIT497,No
+393,1,116,30,08:14,Soleado,Calle residencial,Ford,NHT196,No
+394,12,122,100,14:01,Nublado,Zona escolar,Renault,GLD270,Sí
+395,33,63,40,16:36,Lluvia,Calle residencial,Audi,KTG234,No
+396,15,41,40,17:49,Nublado,Autopista,Hyundai,ZKT501,Sí
+397,30,94,100,17:59,Nublado,Avenida,Nissan,JOZ859,No
+398,1,90,100,18:51,Lluvia,Zona escolar,Chevrolet,NGC683,Sí
+399,18,126,30,10:12,Nublado,Autopista,Audi,IVD218,No
+400,39,129,60,08:32,Soleado,Autopista,Nissan,NOI532,Sí
+401,26,53,60,19:19,Nublado,Autopista,Kia,WPI154,Sí
+402,39,48,100,13:27,Lluvia,Zona escolar,Kia,DFE089,Sí
+403,38,121,80,14:35,Soleado,Zona escolar,Kia,ZPS199,Sí
+404,49,44,100,08:07,Soleado,Calle residencial,Nissan,IZW781,No
+405,48,40,40,23:49,Nublado,Calle residencial,Ford,QCC680,No
+406,31,110,30,18:24,Lluvia,Autopista,Hyundai,HMG932,No
+407,19,53,50,17:51,Nublado,Avenida,Kia,RIQ526,Sí
+408,3,99,100,12:58,Nublado,Zona escolar,Ford,HBM181,No
+409,33,119,50,13:24,Lluvia,Autopista,Toyota,UAT539,Sí
+410,11,30,60,08:30,Soleado,Calle residencial,Ford,RSC664,Sí
+411,17,98,100,07:33,Niebla,Zona escolar,BMW,MVN393,No
+412,10,61,40,07:01,Niebla,Zona escolar,Kia,EWQ719,Sí
+413,6,60,80,10:05,Soleado,Avenida,Hyundai,GSN103,No
+414,18,64,40,10:38,Lluvia,Zona escolar,Chevrolet,EGD321,Sí
+415,45,41,100,08:26,Lluvia,Avenida,Ford,XSN252,No
+416,22,127,100,07:12,Nublado,Avenida,Ford,NCC933,Sí
+417,39,44,30,05:34,Soleado,Avenida,Renault,QTQ530,Sí
+418,11,130,80,06:12,Niebla,Zona escolar,Ford,JAV933,No
+419,31,34,100,09:40,Nublado,Calle residencial,Ford,OQQ674,No
+420,47,62,30,21:25,Niebla,Autopista,Ford,DMQ753,No
+421,23,142,30,16:48,Soleado,Autopista,Nissan,MFM119,Sí
+422,49,44,30,10:22,Niebla,Calle residencial,Kia,XJY813,Sí
+423,36,92,30,07:34,Niebla,Calle residencial,Toyota,ICD919,Sí
+424,40,70,60,10:36,Niebla,Avenida,Ford,GQC532,Sí
+425,37,114,30,15:41,Lluvia,Autopista,Hyundai,FCH460,No
+426,40,117,80,16:42,Niebla,Calle residencial,Chevrolet,MQS433,Sí
+427,40,139,40,22:46,Lluvia,Zona escolar,Toyota,ITT078,Sí
+428,22,63,30,22:50,Niebla,Zona escolar,Mazda,LCD129,No
+429,9,141,40,05:26,Nublado,Calle residencial,Renault,OQT657,No
+430,30,32,40,21:44,Lluvia,Calle residencial,Chevrolet,QBW375,Sí
+431,26,70,60,09:12,Niebla,Avenida,Nissan,RAN372,No
+432,7,52,50,22:31,Nublado,Avenida,Kia,NQL252,Sí
+433,39,33,100,15:20,Nublado,Calle residencial,Nissan,ZAJ838,Sí
+434,12,64,100,09:00,Niebla,Calle residencial,Renault,JZM444,No
+435,25,108,40,17:37,Soleado,Avenida,Hyundai,XWX043,Sí
+436,5,80,80,06:18,Soleado,Calle residencial,Toyota,SZG598,Sí
+437,26,84,100,15:15,Soleado,Calle residencial,BMW,UCQ813,No
+438,48,112,30,09:25,Niebla,Autopista,Kia,FZH995,Sí
+439,22,72,100,23:15,Niebla,Calle residencial,Audi,QTV418,Sí
+440,10,133,50,12:33,Lluvia,Avenida,Ford,IQB131,Sí
+441,10,120,60,14:46,Nublado,Calle residencial,Ford,KOI560,Sí
+442,17,46,100,05:40,Soleado,Calle residencial,Nissan,ZZD548,No
+443,11,62,30,08:15,Nublado,Zona escolar,Audi,MTK704,No
+444,36,111,30,21:09,Soleado,Calle residencial,Audi,CJF094,No
+445,34,113,50,16:30,Soleado,Calle residencial,Toyota,IAW220,Sí
+446,16,97,40,17:15,Lluvia,Zona escolar,Toyota,AJQ845,Sí
+447,24,94,100,06:19,Nublado,Autopista,Audi,NTC677,Sí
+448,35,63,60,08:41,Nublado,Zona escolar,Chevrolet,TEV078,No
+449,8,48,80,20:56,Nublado,Autopista,Chevrolet,ORK306,Sí
+450,4,79,60,20:45,Niebla,Autopista,Renault,XXY800,Sí
+451,47,129,50,18:16,Nublado,Avenida,Audi,LAU823,No
+452,36,95,30,10:19,Nublado,Zona escolar,Toyota,QTJ274,No
+453,2,108,100,05:18,Niebla,Calle residencial,Renault,JRV010,No
+454,14,33,40,13:08,Soleado,Zona escolar,Audi,XUL600,No
+455,17,147,80,15:40,Lluvia,Zona escolar,Renault,VOJ436,Sí
+456,48,149,40,05:10,Niebla,Avenida,Audi,CBE895,Sí
+457,44,127,80,12:49,Niebla,Avenida,BMW,LFK900,No
+458,18,46,30,06:29,Lluvia,Calle residencial,Hyundai,GXG710,Sí
+459,20,120,100,11:04,Nublado,Zona escolar,Nissan,SOY670,Sí
+460,24,85,30,05:49,Lluvia,Calle residencial,Nissan,IOH651,No
+461,30,54,80,15:41,Nublado,Autopista,Toyota,ZJL498,Sí
+462,34,71,60,05:26,Nublado,Zona escolar,Chevrolet,OVH161,No
+463,35,61,50,08:47,Niebla,Zona escolar,Renault,VJU670,No
+464,41,144,40,11:14,Nublado,Autopista,Hyundai,OJT130,No
+465,13,53,50,14:46,Niebla,Autopista,Renault,YZN244,Sí
+466,42,64,50,22:11,Lluvia,Zona escolar,Nissan,MLC642,Sí
+467,47,133,100,21:39,Soleado,Zona escolar,Kia,COF013,Sí
+468,40,68,40,21:12,Lluvia,Zona escolar,Ford,WFY389,No
+469,14,148,30,09:30,Soleado,Autopista,Kia,ULX924,No
+470,8,46,30,09:56,Soleado,Avenida,Mazda,BUO229,No
+471,42,106,40,20:10,Niebla,Autopista,Toyota,RRJ721,No
+472,18,37,40,18:53,Lluvia,Calle residencial,Chevrolet,TTB511,Sí
+473,15,30,60,10:30,Lluvia,Avenida,Nissan,UQJ837,No
+474,17,106,50,15:53,Soleado,Zona escolar,Mazda,ZBI043,No
+475,12,139,40,07:33,Soleado,Zona escolar,Hyundai,OBM968,Sí
+476,21,102,40,07:29,Nublado,Autopista,BMW,RJL496,Sí
+477,18,91,80,05:14,Soleado,Calle residencial,Nissan,ZCU987,Sí
+478,41,103,60,19:47,Niebla,Autopista,Nissan,JPB741,Sí
+479,38,146,50,13:11,Soleado,Autopista,Nissan,PVG355,No
+480,30,83,30,07:15,Lluvia,Autopista,Kia,QMT705,No
+481,29,126,30,10:23,Nublado,Autopista,Nissan,ZTO212,No
+482,28,68,100,10:59,Lluvia,Zona escolar,Ford,LNI821,Sí
+483,28,79,50,23:24,Soleado,Zona escolar,BMW,XOA069,No
+484,38,75,80,19:50,Lluvia,Zona escolar,Chevrolet,NFY258,No
+485,43,139,100,15:28,Soleado,Calle residencial,Hyundai,OIM343,Sí
+486,27,102,50,18:45,Soleado,Zona escolar,Hyundai,ZND066,Sí
+487,15,113,40,05:42,Soleado,Zona escolar,Mazda,JVR020,No
+488,27,56,40,08:34,Niebla,Autopista,Mazda,ZST422,No
+489,36,105,80,06:05,Soleado,Autopista,Mazda,VRW381,Sí
+490,10,41,100,20:53,Soleado,Zona escolar,Ford,GCL089,Sí
+491,10,125,100,15:08,Soleado,Calle residencial,Renault,JAA662,Sí
+492,30,80,50,07:26,Niebla,Avenida,Hyundai,ORT076,No
+493,20,53,40,22:18,Nublado,Autopista,Toyota,LBB740,Sí
+494,10,140,50,11:45,Nublado,Autopista,Ford,NUE111,No
+495,9,137,40,19:44,Niebla,Avenida,BMW,WSP155,Sí
+496,47,131,40,07:49,Lluvia,Autopista,Audi,WPW655,Sí
+497,2,84,80,11:11,Soleado,Avenida,Kia,SGO840,No
+498,22,129,60,18:40,Soleado,Autopista,Nissan,RVZ970,Sí
+499,38,117,100,05:03,Nublado,Calle residencial,Mazda,RJD701,Sí
+500,7,137,60,16:00,Niebla,Zona escolar,Renault,PET924,Sí
+501,41,96,60,19:09,Lluvia,Calle residencial,BMW,USV592,Sí
+502,40,88,40,17:03,Niebla,Zona escolar,BMW,IRR222,No
+503,47,149,60,13:41,Nublado,Zona escolar,Ford,OXZ196,Sí
+504,8,84,100,14:18,Niebla,Autopista,Chevrolet,NHF652,Sí
+505,13,131,80,15:31,Niebla,Avenida,Ford,RLZ970,Sí
+506,6,80,40,17:03,Nublado,Zona escolar,Chevrolet,LNH261,No
+507,25,57,30,07:17,Soleado,Autopista,Audi,QTT194,Sí
+508,15,81,50,09:54,Lluvia,Autopista,Ford,YKL820,No
+509,42,104,60,21:07,Nublado,Avenida,Ford,MUB650,Sí
+510,20,96,30,20:07,Nublado,Calle residencial,Ford,SQI309,No
+511,8,121,80,23:11,Soleado,Avenida,Hyundai,MZX138,No
+512,25,43,50,18:10,Nublado,Avenida,Nissan,NMW892,No
+513,20,128,30,21:42,Niebla,Calle residencial,BMW,WWY399,No
+514,15,87,80,23:06,Nublado,Zona escolar,Ford,NVL350,No
+515,44,70,40,15:01,Lluvia,Zona escolar,Nissan,TWI992,Sí
+516,49,81,40,08:33,Nublado,Calle residencial,Mazda,LIQ019,No
+517,19,93,40,17:12,Lluvia,Autopista,Nissan,CBI243,Sí
+518,23,47,40,13:23,Soleado,Zona escolar,Chevrolet,JCY247,No
+519,23,55,60,18:17,Soleado,Avenida,Audi,ITS204,Sí
+520,44,61,30,12:12,Lluvia,Zona escolar,Audi,IIB505,Sí
+521,44,139,30,21:04,Lluvia,Zona escolar,Kia,XCW885,Sí
+522,8,96,40,12:43,Soleado,Zona escolar,Kia,MLT991,No
+523,47,115,100,19:03,Soleado,Zona escolar,Mazda,MTB214,No
+524,38,76,40,12:21,Lluvia,Calle residencial,Chevrolet,QRG308,Sí
+525,32,32,100,18:06,Nublado,Calle residencial,Renault,BQA028,Sí
+526,19,74,30,13:34,Soleado,Zona escolar,Nissan,JMJ317,Sí
+527,26,39,100,06:11,Soleado,Autopista,Hyundai,RJC448,Sí
+528,15,32,100,20:11,Soleado,Avenida,Nissan,OEZ064,Sí
+529,28,60,100,18:32,Soleado,Autopista,BMW,NJT977,Sí
+530,23,71,60,05:00,Niebla,Calle residencial,Toyota,SHP739,No
+531,26,96,100,12:05,Niebla,Calle residencial,Toyota,ARQ258,No
+532,34,60,50,21:37,Soleado,Zona escolar,BMW,BKA761,No
+533,12,59,30,17:12,Niebla,Autopista,Kia,UIM348,Sí
+534,17,100,40,15:06,Lluvia,Zona escolar,Nissan,EKR756,Sí
+535,48,109,40,18:12,Soleado,Calle residencial,Hyundai,TJM053,No
+536,13,58,80,11:59,Niebla,Avenida,Mazda,DEZ602,No
+537,40,126,30,06:42,Nublado,Avenida,Toyota,GUK687,Sí
+538,2,49,50,17:54,Soleado,Zona escolar,Chevrolet,WFE130,No
+539,49,39,30,16:11,Lluvia,Autopista,BMW,OHV908,Sí
+540,11,99,60,16:50,Nublado,Zona escolar,Hyundai,MDR312,Sí
+541,11,64,80,18:42,Lluvia,Avenida,Kia,FQB637,Sí
+542,10,146,100,11:13,Soleado,Zona escolar,Nissan,CEF578,No
+543,7,103,40,05:04,Niebla,Avenida,Ford,BDH856,Sí
+544,21,88,80,15:43,Niebla,Avenida,BMW,VUA459,No
+545,19,122,40,15:07,Nublado,Zona escolar,BMW,GVT280,No
+546,13,103,50,10:10,Lluvia,Calle residencial,Mazda,RTN361,No
+547,47,64,100,19:58,Soleado,Zona escolar,Toyota,VIL779,Sí
+548,39,123,50,06:31,Niebla,Calle residencial,Mazda,ANK100,No
+549,6,136,40,16:31,Soleado,Zona escolar,Toyota,TAB825,Sí
+550,26,37,40,17:48,Lluvia,Avenida,Hyundai,SXP409,No
+551,49,47,50,06:03,Nublado,Calle residencial,Mazda,ACH604,No
+552,8,46,100,15:53,Nublado,Autopista,BMW,IIA617,Sí
+553,42,132,40,22:28,Lluvia,Calle residencial,Toyota,SSY535,No
+554,6,43,40,18:28,Nublado,Autopista,Renault,QZN438,Sí
+555,43,34,50,08:39,Soleado,Zona escolar,BMW,JUP156,No
+556,48,76,80,18:44,Lluvia,Calle residencial,Audi,DHC701,Sí
+557,17,106,80,21:49,Lluvia,Calle residencial,Kia,QMH173,Sí
+558,42,92,80,12:31,Niebla,Zona escolar,Ford,CPL500,Sí
+559,46,146,40,05:14,Lluvia,Calle residencial,BMW,BDP148,No
+560,49,66,30,13:42,Soleado,Avenida,Kia,YSF868,No
+561,30,141,60,19:04,Nublado,Calle residencial,Ford,IEA180,No
+562,33,114,100,05:42,Niebla,Avenida,Toyota,MTM267,No
+563,6,130,40,19:17,Niebla,Avenida,BMW,FRM997,No
+564,46,78,60,09:11,Soleado,Calle residencial,Nissan,QCD625,No
+565,29,57,100,17:46,Nublado,Autopista,Ford,XWC346,No
+566,35,101,60,07:57,Nublado,Zona escolar,Hyundai,PZS629,Sí
+567,27,84,80,17:17,Niebla,Avenida,Nissan,SZR114,Sí
+568,37,147,30,19:31,Niebla,Calle residencial,Kia,QOR851,Sí
+569,9,109,40,05:10,Soleado,Avenida,Renault,ZTD739,Sí
+570,46,40,100,15:15,Lluvia,Zona escolar,Hyundai,DXC228,No
+571,49,124,40,08:49,Niebla,Calle residencial,Kia,QVH938,Sí
+572,2,144,50,21:06,Soleado,Zona escolar,Kia,WAV961,Sí
+573,33,145,80,07:04,Niebla,Calle residencial,Nissan,FTA008,No
+574,15,66,40,23:23,Niebla,Calle residencial,Hyundai,YHU846,Sí
+575,15,104,80,19:03,Soleado,Avenida,Hyundai,PYI104,Sí
+576,24,105,60,23:35,Soleado,Avenida,Ford,KGD056,Sí
+577,45,126,80,15:53,Lluvia,Zona escolar,Chevrolet,QGF304,No
+578,43,99,60,12:32,Lluvia,Calle residencial,Hyundai,YNF289,Sí
+579,42,147,60,11:51,Niebla,Calle residencial,Hyundai,BGJ225,No
+580,36,85,30,21:37,Niebla,Zona escolar,Renault,NOT829,Sí
+581,44,106,60,06:13,Niebla,Avenida,Kia,PSX914,Sí
+582,18,143,40,10:27,Nublado,Autopista,Hyundai,PFJ309,No
+583,30,47,60,14:22,Niebla,Zona escolar,BMW,FEM529,No
+584,43,94,40,07:53,Niebla,Autopista,Mazda,UBL840,No
+585,23,103,80,15:12,Nublado,Zona escolar,Chevrolet,YXV922,Sí
+586,25,31,80,05:01,Soleado,Calle residencial,Ford,EAG851,Sí
+587,45,99,50,11:02,Soleado,Autopista,Nissan,ZJU251,No
+588,35,58,80,05:42,Soleado,Calle residencial,Toyota,NKX794,Sí
+589,45,68,80,17:04,Lluvia,Autopista,Mazda,DWE502,No
+590,10,41,60,05:17,Soleado,Avenida,Ford,GIA914,Sí
+591,24,47,50,15:27,Lluvia,Zona escolar,BMW,JSZ213,Sí
+592,36,94,50,07:43,Niebla,Calle residencial,Hyundai,CPG972,No
+593,26,71,40,11:08,Soleado,Zona escolar,Audi,ZAD588,No
+594,30,44,30,17:35,Lluvia,Zona escolar,Renault,YCY015,No
+595,16,100,30,06:16,Nublado,Zona escolar,Audi,HGS491,Sí
+596,41,53,30,23:32,Lluvia,Zona escolar,Ford,DSE210,No
+597,26,92,100,11:17,Niebla,Calle residencial,Hyundai,MAX372,No
+598,19,65,50,14:51,Niebla,Zona escolar,Ford,LPD274,Sí
+599,32,117,80,08:29,Nublado,Zona escolar,Ford,DYY106,No
+600,36,30,30,11:07,Lluvia,Avenida,Nissan,MJK496,No
+601,40,38,80,06:41,Lluvia,Autopista,Mazda,YBW808,Sí
+602,3,59,40,11:47,Niebla,Avenida,Toyota,QSM476,Sí
+603,23,88,60,22:00,Soleado,Zona escolar,Kia,FXL609,Sí
+604,16,95,80,14:28,Nublado,Zona escolar,Renault,NAJ460,Sí
+605,47,143,40,10:58,Nublado,Calle residencial,Chevrolet,ALV625,No
+606,11,125,50,19:13,Nublado,Calle residencial,BMW,WDL303,No
+607,21,110,50,05:48,Soleado,Autopista,Toyota,SFZ115,Sí
+608,5,31,50,11:13,Niebla,Autopista,Ford,EWW979,Sí
+609,28,103,80,15:06,Soleado,Autopista,Nissan,AAL965,Sí
+610,18,139,40,06:23,Niebla,Autopista,Audi,OPY045,Sí
+611,36,32,30,13:50,Nublado,Autopista,Chevrolet,AKW321,Sí
+612,24,103,40,13:38,Lluvia,Autopista,Ford,ZHG174,No
+613,43,101,80,23:01,Nublado,Zona escolar,Ford,YGX025,Sí
+614,35,117,100,16:47,Soleado,Autopista,Nissan,LMZ130,No
+615,33,145,100,15:01,Nublado,Autopista,Renault,BRG509,Sí
+616,11,125,60,09:29,Lluvia,Zona escolar,Ford,GSE657,Sí
+617,46,129,50,17:00,Niebla,Avenida,Toyota,YZR635,No
+618,1,66,100,07:52,Lluvia,Calle residencial,Nissan,IRK327,No
+619,31,128,100,05:18,Soleado,Zona escolar,Kia,XNR281,No
+620,23,125,60,14:26,Niebla,Avenida,Renault,BJE088,No
+621,43,43,30,08:09,Soleado,Calle residencial,Toyota,JHP586,Sí
+622,34,92,50,07:26,Niebla,Autopista,Mazda,EPJ561,Sí
+623,31,129,50,07:41,Soleado,Zona escolar,Kia,KHV252,Sí
+624,48,146,40,07:32,Niebla,Zona escolar,Hyundai,BGE800,Sí
+625,12,104,40,18:45,Nublado,Avenida,Mazda,PMB534,No
+626,16,132,60,13:27,Nublado,Calle residencial,Nissan,QQW122,No
+627,20,41,80,06:27,Niebla,Avenida,Audi,UPW800,No
+628,32,41,100,11:07,Niebla,Autopista,Ford,PIU988,No
+629,2,41,50,20:34,Nublado,Autopista,Chevrolet,PUD543,No
+630,10,115,60,05:16,Lluvia,Autopista,Kia,MHB676,No
+631,10,37,100,13:27,Soleado,Autopista,Chevrolet,TRE163,No
+632,25,64,80,12:24,Lluvia,Autopista,BMW,HNI001,Sí
+633,25,33,100,17:50,Soleado,Calle residencial,Audi,XPP302,Sí
+634,37,94,50,06:12,Nublado,Autopista,BMW,MQI820,No
+635,15,144,100,17:01,Nublado,Avenida,Hyundai,JOF076,Sí
+636,14,142,50,05:14,Nublado,Calle residencial,BMW,JLO801,Sí
+637,26,36,80,05:52,Soleado,Zona escolar,Chevrolet,PZA182,No
+638,10,82,100,14:53,Lluvia,Calle residencial,Renault,MYZ303,No
+639,7,46,100,06:25,Soleado,Autopista,Audi,WRE313,Sí
+640,31,112,60,18:36,Soleado,Calle residencial,BMW,FVL594,Sí
+641,41,136,30,17:26,Soleado,Zona escolar,Renault,FOQ735,Sí
+642,9,132,80,23:08,Nublado,Zona escolar,Mazda,VIH076,No
+643,36,48,80,07:22,Nublado,Zona escolar,Toyota,FWI259,Sí
+644,35,32,40,09:22,Soleado,Autopista,Renault,WLV330,No
+645,13,30,100,14:52,Niebla,Avenida,Chevrolet,ISK480,Sí
+646,36,137,40,19:01,Nublado,Autopista,Toyota,FLL735,No
+647,6,118,30,18:47,Nublado,Avenida,Chevrolet,ARV156,Sí
+648,6,130,30,06:34,Lluvia,Autopista,Ford,PGN487,Sí
+649,45,89,60,14:49,Nublado,Autopista,Chevrolet,BDZ731,Sí
+650,3,97,80,09:45,Soleado,Avenida,BMW,XDI485,Sí
+651,28,90,40,15:56,Nublado,Autopista,Audi,JWV157,Sí
+652,42,128,80,18:30,Lluvia,Calle residencial,Chevrolet,KEU929,No
+653,45,63,100,21:58,Soleado,Zona escolar,Mazda,OLN438,No
+654,31,96,30,12:46,Nublado,Calle residencial,Toyota,ZYH182,Sí
+655,6,122,50,10:50,Soleado,Calle residencial,Mazda,CKH679,Sí
+656,46,111,100,10:33,Soleado,Calle residencial,Mazda,FUR477,No
+657,30,106,50,08:53,Soleado,Calle residencial,Mazda,LZI197,No
+658,14,101,100,11:55,Lluvia,Avenida,Hyundai,XMV532,No
+659,25,67,40,18:46,Niebla,Autopista,Nissan,DMR154,Sí
+660,31,40,60,12:32,Soleado,Zona escolar,Nissan,RYJ628,No
+661,16,107,50,21:50,Nublado,Autopista,BMW,VAV951,No
+662,37,122,30,14:04,Nublado,Zona escolar,Nissan,BNM214,Sí
+663,34,134,30,22:52,Soleado,Avenida,Toyota,PXD730,Sí
+664,25,147,80,09:19,Nublado,Autopista,Audi,FMU062,Sí
+665,47,35,30,07:06,Nublado,Autopista,Hyundai,DUW112,Sí
+666,29,30,80,17:20,Soleado,Avenida,Nissan,OGI890,Sí
+667,24,80,40,14:55,Niebla,Autopista,Audi,NJO739,Sí
+668,20,118,80,12:05,Niebla,Zona escolar,Toyota,UYI777,No
+669,44,64,40,17:07,Soleado,Avenida,Toyota,PQN931,No
+670,38,117,60,10:49,Niebla,Autopista,BMW,SZP856,No
+671,44,85,30,10:04,Niebla,Autopista,Toyota,PMB388,No
+672,17,132,100,19:56,Niebla,Autopista,Audi,OLF458,Sí
+673,20,50,60,12:59,Lluvia,Avenida,Mazda,XEA477,No
+674,43,143,40,19:47,Soleado,Calle residencial,Audi,IFI361,Sí
+675,36,103,30,18:57,Lluvia,Avenida,Chevrolet,ETC295,No
+676,41,118,60,23:33,Soleado,Zona escolar,Mazda,YOF919,No
+677,13,99,50,16:39,Niebla,Avenida,Mazda,DUW701,No
+678,34,111,80,13:56,Lluvia,Calle residencial,Toyota,LKQ673,Sí
+679,32,67,80,20:28,Niebla,Avenida,Kia,XVS255,Sí
+680,44,128,100,21:10,Niebla,Autopista,Ford,LOS494,Sí
+681,17,121,100,20:22,Nublado,Autopista,Nissan,BOG600,No
+682,19,84,80,12:22,Nublado,Calle residencial,Audi,BKU725,Sí
+683,2,85,80,12:51,Nublado,Avenida,Kia,ENR637,No
+684,15,31,30,11:39,Nublado,Avenida,Chevrolet,FNT991,Sí
+685,37,145,40,09:04,Lluvia,Zona escolar,Nissan,CUE282,No
+686,36,129,100,11:05,Lluvia,Avenida,Renault,NNW279,Sí
+687,38,75,40,08:01,Soleado,Avenida,Chevrolet,NSP518,No
+688,19,136,30,07:34,Niebla,Zona escolar,Hyundai,PDV706,Sí
+689,37,71,50,20:07,Soleado,Zona escolar,Kia,YYD469,No
+690,25,124,50,12:29,Nublado,Autopista,Chevrolet,ZLV387,No
+691,44,61,50,23:20,Lluvia,Autopista,Ford,QJL002,No
+692,16,107,50,06:36,Soleado,Avenida,Nissan,DTU376,Sí
+693,20,62,50,13:22,Nublado,Zona escolar,Nissan,LHY307,Sí
+694,30,86,80,20:42,Nublado,Avenida,Ford,DBY314,No
+695,31,107,30,15:14,Nublado,Autopista,Renault,JHJ173,Sí
+696,28,129,100,13:12,Soleado,Calle residencial,Nissan,AGF077,Sí
+697,38,56,100,15:34,Soleado,Zona escolar,Nissan,JQT276,No
+698,42,31,50,09:02,Nublado,Calle residencial,Renault,MQB988,No
+699,39,43,60,21:24,Niebla,Avenida,Kia,FUA204,No
+700,27,114,60,06:00,Nublado,Autopista,Toyota,LTJ694,Sí
+701,23,46,100,12:02,Niebla,Calle residencial,Hyundai,KOB626,Sí
+702,31,41,30,06:09,Soleado,Calle residencial,Audi,ICX928,Sí
+703,29,64,100,16:57,Nublado,Calle residencial,BMW,EQU963,No
+704,35,92,60,05:52,Niebla,Avenida,Mazda,ONU182,Sí
+705,33,121,30,11:06,Soleado,Zona escolar,Kia,JGN992,No
+706,42,91,50,22:08,Soleado,Avenida,Hyundai,NJC711,No
+707,17,78,40,21:53,Lluvia,Avenida,Mazda,EHZ648,Sí
+708,9,79,80,07:37,Niebla,Calle residencial,Toyota,OYB778,No
+709,36,53,60,14:50,Lluvia,Autopista,Chevrolet,TIA976,No
+710,2,124,50,20:24,Soleado,Avenida,Audi,OQJ043,Sí
+711,23,146,30,17:57,Nublado,Autopista,Audi,YPE740,Sí
+712,44,143,100,20:04,Nublado,Autopista,Hyundai,GMM893,No
+713,23,128,80,05:30,Soleado,Zona escolar,Renault,FWJ476,No
+714,48,69,60,22:35,Nublado,Avenida,Kia,WIG259,No
+715,41,69,50,08:21,Soleado,Zona escolar,Kia,QXT826,No
+716,6,62,100,08:46,Soleado,Calle residencial,Mazda,PHR988,Sí
+717,49,109,30,15:32,Soleado,Autopista,Chevrolet,IRW946,No
+718,32,77,50,13:13,Niebla,Calle residencial,Audi,ZPZ306,Sí
+719,43,89,30,21:51,Nublado,Zona escolar,Audi,FLC397,No
+720,20,95,60,16:57,Soleado,Autopista,Hyundai,TVY814,No
+721,39,137,60,17:21,Lluvia,Calle residencial,Renault,UMK683,Sí
+722,1,76,50,08:01,Niebla,Autopista,Audi,ACR891,Sí
+723,44,105,40,15:00,Lluvia,Zona escolar,Chevrolet,WHD311,Sí
+724,19,89,80,23:59,Soleado,Calle residencial,Mazda,XEY894,No
+725,38,143,30,23:02,Soleado,Autopista,Toyota,AAE005,Sí
+726,47,125,80,07:09,Niebla,Calle residencial,Hyundai,UHL845,No
+727,3,42,30,14:30,Niebla,Autopista,Renault,IFI203,Sí
+728,38,120,60,08:33,Niebla,Zona escolar,Nissan,KKF731,Sí
+729,9,113,100,06:46,Lluvia,Autopista,Kia,JIQ109,No
+730,36,149,100,22:48,Niebla,Avenida,Mazda,SAA405,No
+731,14,91,30,12:03,Niebla,Calle residencial,Toyota,RIN179,Sí
+732,2,35,80,09:55,Niebla,Zona escolar,Kia,BSD069,Sí
+733,45,107,50,23:59,Soleado,Autopista,Kia,SEU755,No
+734,30,55,100,19:19,Nublado,Calle residencial,Kia,VZK435,Sí
+735,3,61,30,17:33,Soleado,Avenida,Renault,JAN007,No
+736,28,64,60,17:47,Lluvia,Autopista,Chevrolet,MRT005,Sí
+737,16,148,80,17:30,Niebla,Calle residencial,Hyundai,HCU995,Sí
+738,4,75,40,13:33,Lluvia,Zona escolar,Chevrolet,HJP614,No
+739,43,42,50,21:18,Niebla,Avenida,Kia,JYA084,Sí
+740,21,131,60,22:22,Niebla,Zona escolar,Audi,XSX880,No
+741,26,35,40,20:41,Soleado,Calle residencial,Nissan,VUG376,No
+742,27,111,30,07:43,Niebla,Zona escolar,Mazda,PHR444,Sí
+743,14,71,30,19:14,Niebla,Zona escolar,Nissan,ZIA096,Sí
+744,36,123,50,13:20,Soleado,Zona escolar,BMW,WFN824,No
+745,47,130,30,12:34,Lluvia,Calle residencial,Kia,CRZ176,Sí
+746,11,57,80,06:31,Niebla,Calle residencial,Chevrolet,GPP739,Sí
+747,12,36,40,08:04,Niebla,Autopista,Chevrolet,SJO572,Sí
+748,45,39,50,09:52,Soleado,Calle residencial,Nissan,EWI309,Sí
+749,31,108,40,10:17,Nublado,Zona escolar,Toyota,SEC547,Sí
+750,39,68,100,14:56,Lluvia,Autopista,Toyota,ZZE835,Sí
+751,21,77,100,15:15,Soleado,Autopista,Toyota,ZQN576,No
+752,3,90,80,23:33,Nublado,Autopista,Audi,KKZ525,No
+753,27,82,30,11:02,Soleado,Calle residencial,Renault,EYI311,Sí
+754,6,101,50,19:21,Lluvia,Avenida,Audi,MGY079,No
+755,48,64,80,05:39,Soleado,Zona escolar,Renault,HWI507,Sí
+756,25,106,80,08:15,Soleado,Avenida,BMW,RMJ832,No
+757,24,58,50,17:11,Nublado,Avenida,Kia,DNL515,No
+758,18,108,40,08:02,Soleado,Zona escolar,Mazda,NHS251,Sí
+759,24,31,60,08:38,Niebla,Zona escolar,Kia,NFI778,No
+760,22,48,40,15:07,Lluvia,Avenida,Mazda,JNQ437,No
+761,15,123,30,18:49,Niebla,Avenida,BMW,QJS131,No
+762,33,108,50,07:10,Lluvia,Avenida,Toyota,ENP163,No
+763,43,89,40,18:08,Niebla,Zona escolar,Nissan,TIN018,No
+764,27,140,100,21:20,Soleado,Calle residencial,Chevrolet,BZF619,No
+765,46,140,80,11:52,Soleado,Zona escolar,Ford,YQL748,No
+766,27,128,60,06:25,Soleado,Calle residencial,Ford,XTW063,No
+767,42,67,30,23:15,Lluvia,Calle residencial,BMW,ZJG543,No
+768,36,57,40,19:08,Soleado,Zona escolar,Kia,IRR528,Sí
+769,48,94,30,16:47,Lluvia,Avenida,Renault,NNE385,Sí
+770,31,30,50,09:43,Nublado,Avenida,Hyundai,OEX867,Sí
+771,31,64,100,14:36,Niebla,Autopista,Ford,WUG933,Sí
+772,24,64,40,11:25,Lluvia,Autopista,Renault,DSA804,Sí
+773,34,47,30,22:26,Nublado,Zona escolar,Kia,XRE320,No
+774,16,99,100,23:35,Niebla,Autopista,Hyundai,YEJ331,No
+775,16,101,50,15:06,Soleado,Zona escolar,Toyota,VNR610,No
+776,45,65,30,20:10,Lluvia,Avenida,BMW,AIC131,No
+777,3,38,30,19:31,Lluvia,Zona escolar,Ford,SCE204,Sí
+778,49,111,30,12:17,Lluvia,Autopista,Renault,AST979,Sí
+779,31,55,50,06:02,Niebla,Zona escolar,Chevrolet,VBR692,Sí
+780,2,112,60,18:50,Niebla,Zona escolar,Hyundai,PUU060,No
+781,36,149,100,11:29,Nublado,Avenida,Nissan,MQG285,No
+782,48,40,80,18:34,Niebla,Avenida,Toyota,HTD723,No
+783,26,94,30,11:24,Niebla,Zona escolar,Hyundai,OSB070,No
+784,30,39,50,09:21,Lluvia,Calle residencial,Chevrolet,BTV140,Sí
+785,46,88,60,13:48,Soleado,Zona escolar,Toyota,KLY967,Sí
+786,17,104,50,07:48,Soleado,Avenida,BMW,HFB790,Sí
+787,41,55,30,22:54,Nublado,Zona escolar,Ford,UCQ539,No
+788,25,116,30,22:18,Soleado,Avenida,Hyundai,QHN946,No
+789,25,128,60,17:02,Nublado,Calle residencial,BMW,EET958,No
+790,49,80,100,08:34,Niebla,Calle residencial,Nissan,YNU907,Sí
+791,45,97,40,17:48,Lluvia,Autopista,Nissan,XFR694,No
+792,14,59,100,17:48,Soleado,Avenida,Nissan,FWY296,Sí
+793,35,143,40,12:03,Soleado,Calle residencial,Hyundai,AHI911,No
+794,43,36,80,21:15,Nublado,Zona escolar,Kia,VIO869,No
+795,43,103,80,21:46,Niebla,Avenida,Audi,SED361,No
+796,18,142,100,11:05,Lluvia,Autopista,Toyota,CIA229,No
+797,37,129,50,10:04,Niebla,Zona escolar,Ford,QIF018,No
+798,7,112,80,21:10,Lluvia,Zona escolar,Kia,MLQ657,No
+799,14,74,60,23:56,Niebla,Avenida,Nissan,UXX130,No
+800,20,130,50,07:11,Soleado,Autopista,Audi,RWR390,No
+801,35,45,30,20:56,Soleado,Autopista,Chevrolet,VQE124,No
+802,17,99,40,14:04,Niebla,Zona escolar,Hyundai,RQN582,Sí
+803,21,52,80,12:32,Nublado,Autopista,Hyundai,NTK181,No
+804,10,112,100,05:26,Lluvia,Autopista,Nissan,SKG455,No
+805,16,86,100,11:23,Niebla,Zona escolar,Kia,KRW836,Sí
+806,27,105,100,10:41,Niebla,Calle residencial,Chevrolet,DNK566,Sí
+807,31,50,60,07:32,Niebla,Autopista,BMW,BDO526,Sí
+808,29,74,30,11:01,Niebla,Avenida,Chevrolet,ODT463,No
+809,8,86,50,20:18,Niebla,Avenida,Mazda,UIV597,No
+810,42,95,100,08:59,Niebla,Zona escolar,BMW,JOK335,No
+811,42,121,80,17:29,Soleado,Calle residencial,Audi,VVL960,Sí
+812,11,37,30,15:06,Lluvia,Calle residencial,Kia,ZJU019,No
+813,21,33,60,21:55,Lluvia,Calle residencial,BMW,VDK944,No
+814,18,65,30,12:07,Nublado,Calle residencial,Mazda,OLZ475,No
+815,27,81,30,17:52,Nublado,Zona escolar,Hyundai,LRT785,No
+816,45,148,50,21:03,Lluvia,Zona escolar,BMW,ZBW669,Sí
+817,38,67,50,08:56,Nublado,Autopista,Nissan,HSX439,No
+818,45,79,50,05:43,Soleado,Autopista,Audi,DFL308,No
+819,8,92,40,07:01,Soleado,Calle residencial,Hyundai,DXH314,Sí
+820,3,144,100,05:31,Nublado,Avenida,Nissan,CIY057,No
+821,49,57,40,13:58,Niebla,Avenida,Nissan,RPE180,No
+822,38,72,30,06:50,Nublado,Zona escolar,BMW,XKQ060,Sí
+823,11,53,80,06:37,Soleado,Zona escolar,Kia,FCX846,No
+824,45,140,30,10:30,Soleado,Calle residencial,Ford,YHG239,No
+825,35,97,100,07:11,Niebla,Autopista,Audi,TWU176,Sí
+826,5,130,100,23:09,Soleado,Avenida,Ford,PWF992,Sí
+827,12,99,40,13:55,Soleado,Zona escolar,Renault,XOY151,Sí
+828,2,126,50,16:54,Niebla,Calle residencial,Chevrolet,BCH631,No
+829,14,131,50,05:37,Nublado,Zona escolar,Audi,APZ670,No
+830,18,92,50,05:04,Lluvia,Autopista,Chevrolet,GBO772,No
+831,13,36,30,18:17,Niebla,Zona escolar,Hyundai,AFE125,No
+832,34,76,40,11:24,Nublado,Zona escolar,Kia,APV368,No
+833,40,53,40,16:36,Soleado,Zona escolar,Chevrolet,VXO453,Sí
+834,28,138,60,10:40,Soleado,Avenida,Audi,YIC021,Sí
+835,29,45,50,21:34,Niebla,Autopista,Kia,NXJ829,No
+836,27,136,80,11:34,Soleado,Zona escolar,Kia,JXG024,Sí
+837,22,109,50,13:28,Soleado,Autopista,Chevrolet,YSG836,Sí
+838,37,86,100,22:25,Lluvia,Avenida,Nissan,EMV990,No
+839,32,43,40,11:57,Nublado,Autopista,Chevrolet,PJF059,No
+840,21,40,60,11:37,Nublado,Autopista,Renault,IOW275,No
+841,47,66,40,12:52,Niebla,Calle residencial,Chevrolet,ZJU797,Sí
+842,49,62,30,10:14,Lluvia,Autopista,Hyundai,TXX401,No
+843,3,147,30,22:50,Niebla,Autopista,Ford,ASK226,No
+844,37,135,40,12:07,Nublado,Calle residencial,Toyota,CRL637,Sí
+845,30,64,40,19:14,Soleado,Autopista,Chevrolet,FBM153,No
+846,23,145,50,08:04,Niebla,Autopista,Toyota,HVE264,No
+847,45,145,50,22:47,Soleado,Avenida,Toyota,DNU758,Sí
+848,37,103,30,14:28,Lluvia,Calle residencial,Hyundai,WQN220,No
+849,29,123,100,06:56,Niebla,Calle residencial,Renault,TLG183,No
+850,30,117,80,08:20,Niebla,Calle residencial,Ford,AYU936,No
+851,24,50,100,20:10,Soleado,Zona escolar,Chevrolet,UUB545,No
+852,11,66,50,23:54,Lluvia,Autopista,Nissan,NQA364,No
+853,25,74,30,09:38,Soleado,Zona escolar,Chevrolet,TTF942,No
+854,31,71,80,22:46,Lluvia,Zona escolar,BMW,LKS155,Sí
+855,1,78,50,15:23,Lluvia,Calle residencial,Nissan,KIU933,No
+856,10,34,30,06:08,Lluvia,Calle residencial,Toyota,VOK315,No
+857,22,51,30,19:23,Niebla,Calle residencial,Toyota,NGN546,Sí
+858,5,130,40,18:50,Niebla,Zona escolar,Audi,HCO633,Sí
+859,38,78,30,08:28,Soleado,Autopista,Hyundai,LAT386,Sí
+860,36,70,40,08:39,Nublado,Calle residencial,Audi,SEX059,No
+861,19,52,30,13:13,Nublado,Calle residencial,Kia,DCL919,No
+862,24,126,50,23:41,Nublado,Autopista,Mazda,IWG419,No
+863,48,99,100,10:09,Niebla,Autopista,Ford,QHQ895,No
+864,5,122,40,18:02,Niebla,Calle residencial,BMW,UTY562,No
+865,19,49,100,09:04,Lluvia,Calle residencial,Toyota,XKM056,No
+866,16,39,60,21:03,Lluvia,Autopista,Nissan,SNL675,No
+867,6,115,60,10:08,Soleado,Autopista,Nissan,YRQ481,No
+868,48,146,60,09:39,Soleado,Calle residencial,Nissan,MYN603,No
+869,44,146,50,18:54,Lluvia,Calle residencial,BMW,KRM497,Sí
+870,30,36,50,09:27,Niebla,Calle residencial,Mazda,ULJ606,Sí
+871,16,135,40,15:52,Lluvia,Zona escolar,Chevrolet,GBN228,No
+872,36,111,80,12:01,Nublado,Calle residencial,Audi,PZB995,Sí
+873,30,91,100,21:26,Soleado,Calle residencial,BMW,YTW435,Sí
+874,33,106,80,12:28,Niebla,Zona escolar,Mazda,WNF694,No
+875,31,85,100,06:07,Soleado,Calle residencial,Mazda,HPJ876,Sí
+876,35,64,60,23:44,Soleado,Zona escolar,Kia,JIF066,No
+877,39,88,40,18:17,Niebla,Calle residencial,Audi,JZY776,Sí
+878,11,55,40,20:42,Niebla,Calle residencial,BMW,AMG572,No
+879,43,39,100,07:37,Soleado,Zona escolar,Chevrolet,RGB092,No
+880,19,43,40,11:46,Soleado,Calle residencial,BMW,EEN954,No
+881,43,54,100,07:42,Lluvia,Zona escolar,Hyundai,FIQ540,No
+882,37,144,30,21:30,Lluvia,Zona escolar,Toyota,VRK488,Sí
+883,36,39,60,21:32,Soleado,Calle residencial,Chevrolet,HMT619,No
+884,31,122,30,05:53,Lluvia,Autopista,Chevrolet,LZW556,Sí
+885,15,53,100,12:47,Niebla,Autopista,Hyundai,DEM728,No
+886,3,78,50,13:04,Lluvia,Zona escolar,Chevrolet,OOX733,Sí
+887,25,138,50,07:37,Lluvia,Zona escolar,Toyota,UKM138,No
+888,30,99,60,12:15,Nublado,Autopista,Toyota,FST599,Sí
+889,26,98,50,10:17,Niebla,Avenida,Kia,NNP055,No
+890,32,92,30,12:44,Lluvia,Zona escolar,Hyundai,LGS039,Sí
+891,10,120,40,08:51,Nublado,Autopista,Hyundai,JYV544,No
+892,3,63,50,17:15,Soleado,Zona escolar,Chevrolet,SZR781,Sí
+893,14,121,30,20:35,Niebla,Calle residencial,Ford,PLO372,No
+894,49,42,50,16:56,Niebla,Zona escolar,Toyota,HAH013,Sí
+895,27,128,60,20:35,Lluvia,Zona escolar,Hyundai,ZGU589,Sí
+896,32,35,100,09:07,Niebla,Zona escolar,Audi,QFS654,No
+897,35,133,50,08:44,Soleado,Avenida,Toyota,TLE969,Sí
+898,45,44,30,14:15,Niebla,Avenida,Mazda,YLX136,Sí
+899,6,75,100,14:31,Nublado,Autopista,Chevrolet,UPK704,No
+900,7,99,100,16:13,Lluvia,Calle residencial,Kia,ZIN295,Sí
+901,8,52,60,18:24,Niebla,Avenida,Toyota,GKJ904,Sí
+902,1,50,100,13:13,Soleado,Avenida,Ford,VSA064,Sí
+903,47,45,60,07:03,Nublado,Avenida,BMW,FNJ307,Sí
+904,40,91,100,19:25,Niebla,Avenida,BMW,XXL819,Sí
+905,49,96,50,21:02,Lluvia,Calle residencial,Hyundai,YYM747,No
+906,25,33,30,22:04,Soleado,Avenida,Toyota,ZPY556,No
+907,15,102,60,20:24,Nublado,Avenida,Mazda,YBS694,No
+908,47,83,40,15:27,Nublado,Zona escolar,Renault,IXW525,No
+909,10,98,30,07:07,Niebla,Zona escolar,BMW,MPE229,Sí
+910,36,102,80,06:31,Niebla,Autopista,Renault,RBQ302,No
+911,30,138,100,09:08,Lluvia,Calle residencial,Hyundai,XIN589,No
+912,7,31,100,07:04,Lluvia,Calle residencial,Renault,BDS504,No
+913,5,45,30,13:47,Soleado,Zona escolar,Ford,SLW220,Sí
+914,13,93,60,06:57,Niebla,Zona escolar,Audi,ZYQ111,Sí
+915,23,89,60,05:18,Nublado,Calle residencial,Toyota,EIV643,No
+916,9,123,50,23:30,Nublado,Autopista,Hyundai,MEF117,Sí
+917,35,120,60,20:06,Niebla,Avenida,Toyota,CRX145,Sí
+918,44,73,80,06:15,Nublado,Avenida,Nissan,PIV826,Sí
+919,10,35,30,23:10,Niebla,Avenida,Mazda,ZGO410,No
+920,7,93,40,13:42,Niebla,Avenida,Chevrolet,WIM612,Sí
+921,33,61,40,16:59,Niebla,Autopista,Renault,CEH030,Sí
+922,28,100,30,18:24,Nublado,Avenida,Chevrolet,YOR805,No
+923,11,35,100,05:11,Niebla,Avenida,BMW,SYW388,Sí
+924,8,47,60,10:33,Nublado,Autopista,Chevrolet,ZLS092,Sí
+925,44,113,80,09:30,Soleado,Avenida,Ford,WHJ636,Sí
+926,21,132,30,21:42,Niebla,Calle residencial,Audi,UEA610,Sí
+927,24,130,40,05:39,Lluvia,Avenida,Chevrolet,GDA483,No
+928,26,79,60,23:31,Soleado,Zona escolar,Mazda,TQB393,Sí
+929,20,89,100,09:42,Soleado,Autopista,Ford,QBF393,Sí
+930,20,101,100,23:15,Nublado,Zona escolar,Renault,AUH184,No
+931,14,106,40,20:20,Niebla,Autopista,BMW,CWZ811,Sí
+932,32,57,60,08:50,Lluvia,Autopista,Nissan,QCL058,No
+933,45,34,40,15:46,Nublado,Zona escolar,Kia,WBH429,No
+934,38,120,30,10:24,Lluvia,Avenida,Toyota,WJF626,No
+935,42,88,80,05:09,Soleado,Zona escolar,Nissan,JXY418,Sí
+936,29,121,50,16:38,Lluvia,Autopista,Audi,ZEE158,Sí
+937,40,118,80,13:57,Nublado,Autopista,Renault,PVU811,No
+938,33,53,80,19:41,Soleado,Zona escolar,BMW,WWI788,Sí
+939,42,69,40,09:43,Lluvia,Zona escolar,Audi,WFF296,Sí
+940,8,64,100,07:37,Nublado,Avenida,BMW,EAU478,Sí
+941,12,31,40,21:09,Soleado,Avenida,Audi,TLW171,Sí
+942,7,71,100,22:53,Soleado,Zona escolar,Toyota,BWU303,No
+943,24,43,40,07:43,Soleado,Autopista,Audi,AJS776,No
+944,24,80,80,14:32,Soleado,Zona escolar,Mazda,JXN150,Sí
+945,35,104,40,09:32,Lluvia,Calle residencial,Audi,AVV044,No
+946,34,136,30,21:22,Soleado,Zona escolar,Hyundai,SDV788,Sí
+947,41,100,80,23:04,Niebla,Autopista,Toyota,GWA114,Sí
+948,10,65,80,17:27,Nublado,Calle residencial,Hyundai,HIS524,Sí
+949,3,144,60,10:02,Niebla,Avenida,Chevrolet,ZVZ686,No
+950,48,106,100,07:11,Soleado,Zona escolar,Kia,OBX164,Sí
+951,49,136,40,15:39,Niebla,Avenida,Hyundai,BRE547,No
+952,39,69,100,14:44,Niebla,Zona escolar,Kia,AQA096,No
+953,9,118,40,18:25,Soleado,Avenida,Nissan,GSI179,Sí
+954,8,98,80,21:03,Lluvia,Calle residencial,Ford,AST150,Sí
+955,41,37,80,21:47,Lluvia,Autopista,Audi,MZT742,Sí
+956,26,127,100,10:39,Nublado,Avenida,Mazda,XRI150,No
+957,34,68,100,17:42,Nublado,Avenida,BMW,GVK813,No
+958,44,121,80,16:29,Nublado,Calle residencial,Audi,NEA036,Sí
+959,46,127,30,20:37,Soleado,Zona escolar,Hyundai,ZFT230,Sí
+960,25,119,80,09:11,Niebla,Autopista,Mazda,TYE814,No
+961,9,147,80,19:58,Soleado,Zona escolar,Toyota,UIH835,No
+962,24,84,30,19:23,Lluvia,Avenida,BMW,XWC119,Sí
+963,15,124,60,05:35,Nublado,Autopista,Audi,TLD874,No
+964,26,43,80,17:04,Lluvia,Autopista,Renault,ZNK733,Sí
+965,39,47,50,17:44,Soleado,Zona escolar,Toyota,NPY440,Sí
+966,40,44,60,14:00,Lluvia,Avenida,BMW,MJJ047,Sí
+967,49,70,60,20:49,Lluvia,Autopista,Renault,XKC075,Sí
+968,24,81,60,20:57,Niebla,Calle residencial,Ford,JYC991,No
+969,37,40,80,16:07,Lluvia,Zona escolar,Mazda,ZHJ070,Sí
+970,18,57,80,08:55,Lluvia,Autopista,Chevrolet,ZFQ453,No
+971,33,77,40,22:32,Soleado,Avenida,Toyota,JAZ053,No
+972,41,62,100,16:29,Lluvia,Autopista,Chevrolet,UPF492,Sí
+973,40,114,50,07:39,Niebla,Calle residencial,Mazda,UZE871,Sí
+974,10,87,50,11:38,Nublado,Avenida,BMW,SGB047,No
+975,48,56,100,14:20,Lluvia,Avenida,Ford,XYF407,Sí
+976,19,34,40,11:11,Nublado,Zona escolar,Nissan,PJC224,Sí
+977,7,42,40,18:08,Lluvia,Avenida,Mazda,OPL901,Sí
+978,41,117,40,07:52,Soleado,Zona escolar,Hyundai,INJ830,Sí
+979,13,45,60,19:16,Nublado,Autopista,Hyundai,PQY194,No
+980,5,53,60,12:30,Nublado,Calle residencial,Toyota,TSD683,Sí
+981,3,51,30,07:03,Nublado,Zona escolar,Hyundai,QVB582,No
+982,13,128,40,23:50,Lluvia,Autopista,Renault,DCQ798,No
+983,45,65,100,23:33,Soleado,Calle residencial,Ford,EPN547,Sí
+984,17,54,100,19:32,Niebla,Avenida,BMW,NWS590,Sí
+985,33,67,60,08:58,Niebla,Avenida,Hyundai,HNA421,Sí
+986,41,113,30,22:00,Lluvia,Avenida,Renault,ZCL027,No
+987,48,111,50,07:48,Niebla,Zona escolar,Mazda,XGI317,No
+988,13,103,40,12:27,Niebla,Autopista,Renault,GBZ514,Sí
+989,9,74,40,07:06,Lluvia,Autopista,Mazda,YKL118,Sí
+990,48,90,30,22:38,Soleado,Calle residencial,Mazda,VWW522,Sí
+991,32,69,100,19:21,Nublado,Calle residencial,Audi,SEO254,No
+992,34,60,80,05:56,Lluvia,Avenida,Renault,SSB986,Sí
+993,4,144,50,20:50,Nublado,Zona escolar,Hyundai,CBF783,Sí
+994,43,67,40,17:33,Soleado,Autopista,Nissan,QLY050,No
+995,41,73,30,06:03,Nublado,Autopista,Kia,JXG552,No
+996,49,137,60,07:56,Soleado,Calle residencial,Hyundai,WLP713,No
+997,25,75,30,11:25,Soleado,Autopista,Kia,SRW281,No
+998,31,107,50,17:28,Lluvia,Autopista,Ford,BXG090,Sí
+999,20,139,60,23:22,Niebla,Zona escolar,Hyundai,NTI554,Sí
+1000,38,32,40,17:59,Nublado,Avenida,Audi,MCN491,Sí
